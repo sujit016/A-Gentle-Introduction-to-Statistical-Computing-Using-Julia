@@ -12,7 +12,7 @@ This repository provides a beginner-friendly introduction to statistical computi
 A Gentle Introduction to Statistical Computing using R: https://arbhowmick.quarto.pub/a-gentle-introduction-to-statistical-computing-using-r/
 
 ## Credits 
-This content inspired by the course Statistical Computing in the MDM offered by Department of Mathematics, ICT MUmbai
+This content inspired by the course Statistical Computing in the MDM in Machine Learning and Artificial Intelligence offered by the Department of Mathematics, ICT Mumbai, under NEP2020
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests. For any queries contact sujitchaugule016@gmail.com
