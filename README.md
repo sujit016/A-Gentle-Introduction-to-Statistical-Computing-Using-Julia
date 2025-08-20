@@ -1,5 +1,12 @@
-# A-Gentle-Introduction-to-Statistical-Computing-Using-Julia
-## Authors: Sujit Sandipan Chaugule^a, Dr.Amiya Ranjan Bhowmick^b
+# A Gentle Introduction to Statistical Computing Using Julia  
+
+## Authors  
+- Sujit Sandipan Chaugule<sup>a</sup>  
+- Dr. Amiya Ranjan Bhowmick<sup>b</sup>  
+
+<sup>a</sup> Institute of Chemical Technology, Mumbai  
+<sup>b</sup> Institute of Chemical Technology, Mumbai  
+
 
 ## Overview
 This repository provides a beginner-friendly introduction to statistical computing using the Julia programming language. It covers key statistical concepts, simulations, and implementations, an essential foundation for AI/ML. Ideal for students, researchers, and practitioners in data science and machine learning.
