@@ -24,3 +24,8 @@ This content inspired by the course Statistical Computing in the MDM in Machine 
 
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests. For any queries contact sujitchaugule016@gmail.com
+
+
+## Acknowledgements  
+
+Sincere gratitude to Dr. Md. Aktar Ul Karim (Symbiosis Statistical Institute, Pune), Dipali Vasudev Mestry (Department of Mathematics, ICT Mumbai), and Annunay Pandey (Department of Mathematics, ICT Mumbai) for their continuous support and valuable guidance throughout the development of this work.
