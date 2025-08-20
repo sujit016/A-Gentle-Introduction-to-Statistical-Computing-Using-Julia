@@ -1,11 +1,10 @@
 # A Gentle Introduction to Statistical Computing Using Julia  
 
 ## Authors  
-- Sujit Sandipan Chaugule<sup>a</sup>  
-- Dr. Amiya Ranjan Bhowmick<sup>b</sup>  
+Sujit Sandipan Chaugule<sup>a*</sup>, Dr. Amiya Ranjan Bhowmick<sup>b</sup>  
 
-<sup>a</sup> Institute of Chemical Technology, Mumbai  
-<sup>b</sup> Institute of Chemical Technology, Mumbai  
+<sup>a*</sup> Department of Pharmaceutical Sciences Technology, Institute of Chemical Technology, Mumbai  
+<sup>b</sup> Department of Mathematics, Institute of Chemical Technology, Mumbai  
 
 
 ## Overview
