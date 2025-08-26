@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this repository in your work, please cite it as below."
+title: "A Gentle Introduction to Statistical Computing Using Julia"
+authors:
+  - family-names: "Chaugule"
+    given-names: "Sujit Sandipan"
+  - family-names: "Bhowmick"
+    given-names: "Amiya Ranjan"
+version: "2025"
+date-released: "2025-01-01"
+url: "https://github.com/sujit016/A-Gentle-Introduction-to-Statistical-Computing-Using-Julia"
+repository-code: "https://github.com/sujit016/A-Gentle-Introduction-to-Statistical-Computing-Using-Julia"
+license: "All Rights Reserved"
